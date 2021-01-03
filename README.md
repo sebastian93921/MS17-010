@@ -24,6 +24,7 @@ This repository is for public my work on MS17-010. I have no plan to do any supp
  * **mysmb.py** Extended Impacket SMB class for easier to exploit MS17-010 bugs
  * **npp_control.py** PoC for controlling nonpaged pool allocation with session setup command
  * **zzz_exploit.py** Exploit for Windows 2000 and later (requires access to named pipe)
+ * **zzz_exploit_shell.py** Same as zzz_exploit.py but only trigger a reverse shell on this script
 
 
 ## Anonymous user
